@@ -1,7 +1,7 @@
 # **[AtkCliente 〽️](https://www.youtube.com/watch?v=0KEX7KgKQ8A)**
 **Somente um Crash Client para WhatsApp**
 
-[Vídeo "Trailer" do Client](https://imgr.search.brave.com/C7g8yqjWN5IHlKzqepNnaD9dKX94_mfRMEUsMF0mm-0/fit/1200/1200/ce/1/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy92aXJ1cy92aXJ1/c19QTkczOS5wbmc)
+[[Vídeo "Trailer" do Client](https://imgr.search.brave.com/C7g8yqjWN5IHlKzqepNnaD9dKX94_mfRMEUsMF0mm-0/fit/1200/1200/ce/1/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy92aXJ1cy92aXJ1/c19QTkczOS5wbmc)
 
 > Whatsapp para suporte [clicando aqui](https://wa.me//+5521984468174).
 
